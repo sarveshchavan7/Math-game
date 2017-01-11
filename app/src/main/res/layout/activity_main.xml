@@ -38,7 +38,7 @@
                     android:layout_marginRight="10dp"
                     android:layout_weight="1"
                     android:gravity="center"
-                    android:text="Points : 0"
+                    android:text="Score : 0"
                     android:textColor="#000000"
                     android:textSize="23.0sp"
                     android:textStyle="bold" />
@@ -80,7 +80,7 @@
                     android:layout_gravity="center"
                     android:layout_marginTop="5dp"
                     android:gravity="center"
-                    android:text="Question 15*2*1-1  =?"
+                    android:text="Question 15-15  = ?"
                     android:textColor="#000"
                     android:textSize="35.0sp"
                     android:textStyle="bold" />
@@ -98,7 +98,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="@drawable/mybutton"
-                    android:text="30"
+                    android:text="0"
                     android:textColor="#000000"
                     android:textSize="25dp" />
 
@@ -118,7 +118,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="@drawable/mybutton"
-                    android:text="30"
+                    android:text="15"
                     android:textColor="#000000"
                     android:textSize="25dp" />
             </LinearLayout>
